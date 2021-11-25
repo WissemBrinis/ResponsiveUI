@@ -27,7 +27,7 @@ const Navbar = () => {
         <p>Sign in</p>
         <button type="button">Sign Up</button>
       </div>
-      <div className="navbar-container">
+      <div className="navbar-menu">
         {toggleMenu ? (
           <RiCloseLine
             color="#fff"
@@ -53,6 +53,10 @@ const Navbar = () => {
               <p>
                 <a href="#news">News</a>
               </p>
+              <div className="navbar-menu_container-links-sign">
+                <p>Sign in</p>
+                <button type="button">Sign Up</button>
+              </div>
             </div>
           </div>
         )}
