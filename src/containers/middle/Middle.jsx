@@ -13,7 +13,7 @@ const Middle = () => {
       </div>
       <div className="middle-heading">
         <h1 className="gradient__text">
-          Our Capabilities are beyond your imagination
+          The Possibilities are beyond your imagination
         </h1>
         <p>Explore the library</p>
       </div>
