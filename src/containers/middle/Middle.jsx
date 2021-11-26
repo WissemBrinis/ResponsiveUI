@@ -4,7 +4,7 @@ import "./middle.css";
 
 const Middle = () => {
   return (
-    <div className="middle section__margin">
+    <div className="middle section__margin" id="about">
       <div className="middle-feature">
         <Feature
           title="Feature N1"
